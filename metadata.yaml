@@ -1,0 +1,27 @@
+_repo: Tom-Swift-and-his-flying-boat-b-Or-The-castaways-of-the-giant-iceberg_70182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70182'
+language: en
+pgterms:marc905: 20220622091039appleton
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: Bob Taylor, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the University of Florida Digital Collections.)
+publication_note: '  $aUnited States :$bGrosset & Dunlap, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tom Swift and his flying boat : $b Or, The castaways of the giant iceberg'
+url: http://www.gutenberg.org/ebooks/70182
