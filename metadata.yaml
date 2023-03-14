@@ -1,5 +1,8 @@
 _repo: Tom-Swift-and-his-flying-boat-b-Or-The-castaways-of-the-giant-iceberg_70182
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70182-h/images/cover.jpg
 creator:
   author:
     agent_name: Appleton, Victor
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70182#Tom-Swift-and-his-flying-boat-b-Or-The-castaways-of-the-giant-iceberg
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70182'
